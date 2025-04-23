@@ -42,7 +42,7 @@
 			, <&gpio1 13 GPIO_ACTIVE_HIGH> //P1.13
 			, <&gpio1 11 GPIO_ACTIVE_HIGH>	//P1.11
 			, <&gpio0 10 GPIO_ACTIVE_HIGH>  //P0.10
-            , <&gpio0 09 GPIO_ACTIVE_HIGH>	//P0.09
+            , <&gpio0 9 GPIO_ACTIVE_HIGH>	//P0.09
 			;
 	};
 };

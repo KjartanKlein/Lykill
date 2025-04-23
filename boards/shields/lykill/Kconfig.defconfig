@@ -1,7 +1,8 @@
 if SHIELD_LYKILL_LEFT
 
 # Name must be less than 16 characters long!
-config ZMK_LYKILL default "Lykill"
+config ZMK_KEYBOARD_NAME 
+    default "Lykill"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y

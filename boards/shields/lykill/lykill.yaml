@@ -1,0 +1,7 @@
+file_format: "1"
+id: lykill
+name: lykill
+type: shield
+url: https://github.com/KjartanKlein/Lykill
+requires: [nice_nano_v2]
+features: keys

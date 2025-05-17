@@ -36,7 +36,7 @@
 &kp CAPS        &kp N1      &kp N2      &kp N3          &kp N4          &kp N5                  &kp MINUS     &kp N0     &kp N9     &kp N8         &kp N7       &kp N6  
 &kp TAB         &kp Q       &kp W       &kp E           &kp R           &kp T                   &kp EQUAL     &kp P      &kp O      &kp I          &kp U        &kp Y    
 &kp ESC         &kp A       &kp S       &kp D           &kp F           &kp G                   &kp LBKT      &kp SEMI   &kp L      &kp K          &kp J        &kp H     
-&kp LSHFT       &kp BSLS    &kp Z       &kp X           &kp C           &kp V                   &kp RBKT      &kp DOT    &kp COMMA  &kp M          &kp N        &kp B   
+&kp LSHFT       &kp BACKSLASH    &kp Z       &kp X           &kp C           &kp V                   &kp RBKT      &kp DOT    &kp COMMA  &kp M          &kp N        &kp B   
                 &kp LCTRL   &kp LALT    &kp RIGHT_ARROW &kp DOWN_ARROW  &kp ENTER  &kp SPACE                  &kp SLASH  &kp GRAVE  &kp LEFT_ARROW &kp UP_ARROW &kp BACKSPACE  &kp SPACE
             >;
         };

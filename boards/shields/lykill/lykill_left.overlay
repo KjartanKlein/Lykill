@@ -1,1 +1,4 @@
 #include "lykill.dtsi"
+&left_encoder {
+    status = "okay";
+};

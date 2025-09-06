@@ -50,7 +50,6 @@
             , <&pro_micro 10 GPIO_ACTIVE_HIGH>	//P0.09
 			;
 	};
-};
 
 / {
     left_encoder: encoder_left {
@@ -67,4 +66,11 @@
         steps = <80>;
         status = "disabled";
     };
+
+    sensors: sensors {
+        compatible = "zmk,keymap-sensors";
+        sensors = <&left_encoder &right_encoder>;
+        triggers-per-rotation = <20>;
+    };
 };
+
